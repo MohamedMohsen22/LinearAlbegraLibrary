@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1627734343 source:d:\mohamed mohsen\learning\linear algebra\udacity course\codes\vectors_add_sub_mul\math_solutions.cpp
+	"Math_Solutions.h"
+
+1627675808 d:\mohamed mohsen\learning\linear algebra\udacity course\codes\vectors_add_sub_mul\math_solutions.h
+	<iostream>
+	<math.h>
+	<vector>
+
+1627503666 source:d:\mohamed mohsen\learning\linear algebra\udacity course\codes\vectors_add_sub_mul\plane.cpp
+	"plane.h"
+
+1622799909 source:d:\mohamed mohsen\learning\linear algebra\udacity course\codes\vectors_add_sub_mul\vectors.cpp
+	"Vectors.h"
+
+1627422924 d:\mohamed mohsen\learning\linear algebra\udacity course\codes\vectors_add_sub_mul\vectors.h
+	<iostream>
+	<vector>
+	<math.h>
+	<exception>
+
+1627496941 source:d:\mohamed mohsen\learning\linear algebra\udacity course\codes\vectors_add_sub_mul\lines.cpp
+	"Lines.h"
+
+1627420677 d:\mohamed mohsen\learning\linear algebra\udacity course\codes\vectors_add_sub_mul\lines.h
+	<iostream>
+	<exception>
+	<vector>
+	<math.h>
+	<memory>
+	"Math_Solutions.h"
+	"Vectors.h"
+
+1627665114 source:d:\mohamed mohsen\learning\linear algebra\udacity course\codes\vectors_add_sub_mul\main.cpp
+	<iostream>
+	"Vectors.h"
+	"Lines.h"
+	"Math_Solutions.h"
+	"plane.h"
+
+1627423065 d:\mohamed mohsen\learning\linear algebra\udacity course\codes\vectors_add_sub_mul\plane.h
+	<vector>
+	<string>
+	"Math_Solutions.h"
+	"vectors.h"
+
+1627496941 source:d:\mohamed mohsen\learning\linear algebra\udacity course\codes\linear_algebra_lib\lines.cpp
+	"Lines.h"
+
+1627420677 d:\mohamed mohsen\learning\linear algebra\udacity course\codes\linear_algebra_lib\lines.h
+	<iostream>
+	<exception>
+	<vector>
+	<math.h>
+	<memory>
+	"Math_Solutions.h"
+	"Vectors.h"
+
+1628255073 d:\mohamed mohsen\learning\linear algebra\udacity course\codes\linear_algebra_lib\math_solutions.h
+	<iostream>
+	<math.h>
+	<vector>
+
+1627422924 d:\mohamed mohsen\learning\linear algebra\udacity course\codes\linear_algebra_lib\vectors.h
+	<iostream>
+	<vector>
+	<math.h>
+	<exception>
+
+1627503666 source:d:\mohamed mohsen\learning\linear algebra\udacity course\codes\linear_algebra_lib\plane.cpp
+	"plane.h"
+
+1627423065 d:\mohamed mohsen\learning\linear algebra\udacity course\codes\linear_algebra_lib\plane.h
+	<vector>
+	<string>
+	"Math_Solutions.h"
+	"vectors.h"
+
+1622799909 source:d:\mohamed mohsen\learning\linear algebra\udacity course\codes\linear_algebra_lib\vectors.cpp
+	"Vectors.h"
+
+1628255624 source:d:\mohamed mohsen\learning\linear algebra\udacity course\codes\linear_algebra_lib\main.cpp
+	<iostream>
+	"Vectors.h"
+	"Lines.h"
+	"Math_Solutions.h"
+	"plane.h"
+	"Matrices.h"
+
+1628255203 d:\mohamed mohsen\learning\linear algebra\udacity course\codes\linear_algebra_lib\matrices.h
+	<vector>
+	"Math_Solutions.h"
+
+1628255191 source:d:\mohamed mohsen\learning\linear algebra\udacity course\codes\linear_algebra_lib\matrices.cpp
+	"Matrices.h"
+
+1628105694 source:d:\mohamed mohsen\learning\linear algebra\udacity course\codes\linear_algebra_lib\math_solutions.cpp
+	"Math_Solutions.h"
+
